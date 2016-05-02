@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  LocalizationSample
+
+  Created by 早川智也 on 2016/05/02.
+  Copyright © 2016年 simorgh. All rights reserved.
+*/
+
+"welcome" = "Hello, World!";
+"name" = "Your name is %@.";
+"numbers" = "one: %d, two: %d";
+"words" = "one: %1$@, two: %2$@";

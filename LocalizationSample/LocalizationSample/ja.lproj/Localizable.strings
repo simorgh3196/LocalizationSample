@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  LocalizationSample
+
+  Created by 早川智也 on 2016/05/02.
+  Copyright © 2016年 simorgh. All rights reserved.
+*/
+
+"welcome" = "ハローワールド！";
+"name" = "あなたの名前は %@ です。";
+"numbers" = "壱: %d, 弐: %d";
+"words" = "弐: %2$@, 壱: %1$@";
